@@ -1,0 +1,11 @@
+Qorvex Research Use License v1.0  
+
+© 2025 Qorvex Consulting. All rights reserved.
+
+This software is provided for academic and internal research use only.
+
+Commercial use, redistribution, or modification is prohibited without prior written consent from Qorvex Consulting.
+
+For licensing inquiries, contact: support@qorvexconsulting.com
+
+Note: You may update or rename this license in the future under a formal versioning scheme (e.g. Qorvex Research Use License v2.0).
